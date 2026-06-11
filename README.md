@@ -237,6 +237,18 @@ python notebooks/01_churn_analysis.py
 - `figures/` — 8 graphiques PNG
 - `reports/churn_report.md` — rapport Markdown complet
 
+---
+
+## Ce projet démontre
+
+- La capacité à construire un **pipeline ML de bout en bout** : ingestion → feature engineering → modélisation → évaluation → rapport
+- La maîtrise de **scikit-learn** : ColumnTransformer, GridSearchCV, StratifiedKFold, Pipeline
+- La gestion correcte du **déséquilibre de classes** (`class_weight='balanced'`) sans surapprendre
+- L'**optimisation du seuil de décision** selon un coût métier asymétrique (FN × 5 coûte plus que FP × 1)
+- La traduction d'un modèle statistique en **recommandations opérationnelles** chiffrées (CA exposé, ROI campagne)
+- La séparation propre entre **ingestion, modélisation et visualisation** (architecture OOP)
+
+---
 
 ## Contributors
 
@@ -246,5 +258,7 @@ python notebooks/01_churn_analysis.py
 
 ---
 
-*Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*  
+*Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*
+*Domaines : Finance · Telecom · Commerce · Performance opérationnelle*
+*Contact : emmatsague@yahoo.fr*
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
