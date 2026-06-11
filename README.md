@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+﻿# Customer Churn Prediction
 
 > Prédiction du churn client sur un portefeuille Telecom/Finance — pipeline ML complet avec explicabilité et optimisation du seuil de décision.  
 > **Stack :** Python · scikit-learn · pandas · matplotlib · seaborn
@@ -236,6 +236,13 @@ python notebooks/01_churn_analysis.py
 - `data_sample/customers.csv` — dataset 5 000 clients (si absent)
 - `figures/` — 8 graphiques PNG
 - `reports/churn_report.md` — rapport Markdown complet
+
+
+## Contributors
+
+| Nom | Role | GitHub |
+|-----|------|--------|
+| **TSAGUE Emmanuel** | Data Scientist - auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
 
 ---
 
