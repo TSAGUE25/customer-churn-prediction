@@ -260,5 +260,5 @@ python notebooks/01_churn_analysis.py
 
 *Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*
 *Domaines : Finance · Telecom · Commerce · Performance opérationnelle*
-*Contact : emmatsague@yahoo.fr*
+*Contact : emmatsague@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/emmanuel-tsague-114295414)*
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
