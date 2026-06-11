@@ -1,0 +1,17 @@
+# Customer Churn Prediction — Dépendances
+# Python 3.9+
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+scikit-learn>=1.3.0
+
+# Optionnel — XGBoost natif (meilleur que GradientBoosting sklearn)
+# xgboost>=1.7.0
+
+# Optionnel — Explicabilité avancée
+# shap>=0.42.0
+
+# Optionnel — Calibration des probabilités
+# scikit-learn inclus : CalibratedClassifierCV

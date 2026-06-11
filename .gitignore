@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environnements
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Données réelles — ne jamais committer
+data/raw/
+data/confidential/
+*.parquet
+*.pkl
+*.h5
+
+# Modèles sérialisés
+models/*.pkl
+models/*.joblib
+
+# Figures et rapports — committés (référencés dans README)
+# figures/*.png
+# reports/*.md
+
+# Logs
+*.log
+*.tmp
+.pytest_cache/
+.coverage
